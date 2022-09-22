@@ -1,0 +1,48 @@
+.forgotPassword{
+position: absolute;
+width: 132px;
+height: 24px;
+left: 698px;
+top: 727px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+/* Grey 2 */
+
+color: #535353;
+
+}
+
+.loginButton{
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 39px;
+gap: 10px;
+
+position: absolute;
+width: 123px;
+height: 48px;
+left: 698px;
+top: 655px;
+
+/* Blue */
+
+background: #334F67;
+/* Element Grey */
+
+border: 1px solid #CED4DA;
+border-radius: 8px;
+}
